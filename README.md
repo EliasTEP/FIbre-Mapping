@@ -1,14 +1,11 @@
 **TO VIEW THE MAP**
-OPEN "southwest_ontario_map.HTML"
-FREE ROAM MAP
-CLICK ON MARKERS FOR DETAILS
-
+Open "southwest_ontario_map.HTML", Download on right side.
+You can Free Roam the Map and click on markers for details
 
 
 **TO ADD DATA** (Ask Elias)
-OPEN "FibreLocationMappingPython.xlsx"
-ADD DATA IN RESPECTIVE COLUMNS
-SAVE!
+Open "FibreLocationMappingPython.xlsx". Add data in respective columns and be sure to save!
+
+
 **TO APPLY CHANGES** (Ask Elias)
-OPEN "MappingCode.ipynb"
-RUN CODE, AND THEN RE DOWNLOAD AND UPLOAD 
+Open "MappingCode.ipynb", Run code, then must re upload the map and replace that file.
